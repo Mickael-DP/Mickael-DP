@@ -1,4 +1,4 @@
-# 👋 Bienvenue sur la page GitHub de [Votre Nom] 👨‍💻
+# 👋 Bienvenue sur ma page GitHub. 👨‍💻
 
 Salut, je suis Mickael DALLE PASQUALINE, encore alternant dans le developpement web. Venez explorer mes repos pour découvrir mes contributions et projets !
 

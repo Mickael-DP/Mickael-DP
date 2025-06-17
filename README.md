@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur ma page GitHub. 👨‍💻
 
-Salut, je suis Mickael DALLE PASQUALINE, encore alternant dans le developpement web. Venez explorer mes repos pour découvrir mes contributions et projets !
+Salut, je suis Mickael DALLE PASQUALINE, Développeur Web (Spé. Frontend). Venez explorer mes repos pour découvrir mes contributions et projets !
 
 ## 📫 Comment me contacter
 

@@ -82,30 +82,41 @@ Développeur Web spécialisé **Frontend** avec un **Mastère Expert en Dévelop
 
 ## 🎯 Projets Phares
 
-### 🌐 [MDP Développeur](https://portfolio-dallepasqualine-mickael.vercel.app/)
+### 🌐 Mon Portfolio 
+Mon CV web - Architecture complète, optimisation SEO et performance
+- **Tech Stack:** Angular, TypeScript, Tailwind CSS, Vercel
+- [🔗 Voir le site](https://portfolio-dallepasqualine-mickael.vercel.app/) | [💻 Code](https://github.com/Mickael-DP/mynewportfolio)
+
+### 🌐 Mon site vitrine freeelance  
 Mon site vitrine professionnel - Architecture complète, optimisation SEO et performance
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Vercel
-- [🔗 Voir le site](https://portfolio-dallepasqualine-mickael.vercel.app/) | [💻 Code](https://github.com/Mickael-DP)
+- [🔗 Voir le site](https://www.mdallepasqualine.com) | [💻 Code](https://github.com/mylandingpage-freelance)
+
+### 📱 AlgoFit
+Application mobile qui génère des programmes d'entraînement personnalisés en quelques secondes a l'aide de l'IA.
+- **Tech Stack:** React Native, Expo
+- [💻 Code](https://github.com/BodyFit-App/frontend-bodyfit-app)
 
 ### 🍽️ Restaurant L'Aragonite
 Site vitrine pour restaurant - Création de maquette, intégration responsive
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Vercel
-- [💻 Code](https://github.com/Mickael-DP)
+- [🔗 Voir le site](https://www.restaurantlaragonite.com/) | [💻 Code](https://github.com/Mickael-DP/site-aragonite-v2)
 
 ### 💼 SwanTrad (LegalTech)
 Plateforme SaaS de digitalisation de traductions assermentées
 - **Tech Stack:** Laravel, MySQL, Bootstrap, Blade
-- Intégration signature électronique qualifiée
+- [🔗 Voir le site](https://www.swantrad.com/) 
 
 ### 📱 BodyFit APP
 Application mobile de fitness cross-platform (projet de fin d'études)
 - **Tech Stack:** React Native, Expo, Supabase
 - Authentification et suivi temps réel
-- [💻 Code](https://github.com/Mickael-DP)
+- [💻 Code](https://github.com/BodyFit-App/frontend-bodyfit-app)
 
 ### 🎮 [Pokedex React](https://github.com/Mickael-DP/Project-React-Pokedex)
 Application Pokédex interactive avec React
 - **Tech Stack:** React, JavaScript
+- [💻 Code](https://github.com/Mickael-DP/Project-React-Pokedex)
 
 ### 🏀 [NBA Shop Angular](https://github.com/Mickael-DP/Projet-Perso-Angular-NBAShop)
 Boutique en ligne NBA avec Angular

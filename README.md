@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+Frontend+Passionné;Expert+React+%7C+Next.js+%7C+TypeScript;Freelance+%26+Ouvert+aux+Opportunités)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+Frontend+Passionné;Expert+React+%7C+Next.js+%7C+TypeScript;Ouvert+aux+Opportunités)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@ Développeur Web spécialisé **Frontend** avec un **Mastère Expert en Dévelop
 - 💼**Développeur Frontend**
 - 🎓 Diplômé de **Sophia YNOV Campus** - Expert Développement Fullstack
 - 🌱 Passionné par la **qualité logicielle**, les **bonnes pratiques** et la **sécurité applicative**
-- 📍 Basé à **Pégomas, France**
+- 📍 Basé dans les **Alpes-maritimes, France**
 - 🌐 Portfolio : [mdallepasqualine.com](https://portfolio-dallepasqualine-mickael.vercel.app/)
 
 ---
@@ -99,15 +99,15 @@ Application mobile de fitness cross-platform (projet de fin d'études)
 - Authentification et suivi temps réel
 - [💻 Code](https://github.com/BodyFit-App/frontend-bodyfit-app)
 
-### 🎮 [Pokedex React](https://github.com/Mickael-DP/Project-React-Pokedex)
+### 🎮 [Pokedex React]
 Application Pokédex interactive avec React
 - **Tech Stack:** React, JavaScript
 - [💻 Code](https://github.com/Mickael-DP/Project-React-Pokedex)
 
-### 🏀 [NBA Shop Angular](https://github.com/Mickael-DP/Projet-Perso-Angular-NBAShop)
+### 🏀 [NBA Shop Angular]
 Boutique en ligne NBA avec Angular
 - **Tech Stack:** Angular, TypeScript
-
+- [💻 Code](https://github.com/Mickael-DP/Projet-Perso-Angular-NBAShop)
 ---
 
 ## 💼 Expérience Professionnelle

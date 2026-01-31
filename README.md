@@ -66,20 +66,6 @@ Développeur Web spécialisé **Frontend** avec un **Mastère Expert en Dévelop
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-![Mickael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mickael-DP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mickael-DP&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mickael-DP&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Projets Phares
 
 ### 🌐 Mon Portfolio 
@@ -95,7 +81,7 @@ Mon site vitrine professionnel - Architecture complète, optimisation SEO et per
 ### 📱 AlgoFit
 Application mobile qui génère des programmes d'entraînement personnalisés en quelques secondes a l'aide de l'IA.
 - **Tech Stack:** React Native, Expo
-- [💻 Code](https://github.com/BodyFit-App/frontend-bodyfit-app)
+- [💻 Code](https://github.com/Mickael-DP/algofit/blob/main/README.md)
 
 ### 🍽️ Restaurant L'Aragonite
 Site vitrine pour restaurant - Création de maquette, intégration responsive

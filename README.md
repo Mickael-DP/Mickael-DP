@@ -10,10 +10,9 @@
 
 ## 🚀 À propos de moi
 
-Développeur Web spécialisé **Frontend** avec un **Mastère Expert en Développement Fullstack** (BAC+5). Après 5 ans d'expérience, dont 2,5 ans chez **SQUAD** dans l'équipe AppSec Factory, j'exerce aujourd'hui en **freelance** tout en restant ouvert aux opportunités en **CDI**.
+Développeur *Full  Stack** avec un **Mastère Expert en Développement Fullstack** (BAC+5). Après 5 ans d'expérience, dont 2,5 ans chez **SQUAD** dans l'équipe AppSec Factory, ouvert au **opportunité en CDI**
 
-- 🔭 Actuellement : a la recherche d'un CDI
-- 💼**Développeur Full Stack**
+- 💼 **Développeur Full Stack**
 - 🎓 Diplômé de **Sophia YNOV Campus** - Expert Développement Fullstack
 - 🌱 Passionné par la **qualité logicielle**, les **bonnes pratiques** et la **sécurité applicative**
 - 📍 Basé dans les **Alpes-maritimes, France**
@@ -165,7 +164,7 @@ Boutique en ligne NBA avec Angular
 
 <div align="center">
 
-### ⚡ Ouvert aux opportunités en CDI et Freelance
+### ⚡ Ouvert aux opportunités en CDI
 
 **💼 Intéressé par des projets techniques exigeants au sein d'équipes attachées aux bonnes pratiques**
 

@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+Frontend+Passionné;Expert+React+%7C+Next.js+%7C+TypeScript;Ouvert+aux+Opportunités)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+Full+Stack;Expert+React+%7C+Next.js+%7C+TypeScript;Ouvert+aux+Opportunités)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 Développeur Web spécialisé **Frontend** avec un **Mastère Expert en Développement Fullstack** (BAC+5). Après 5 ans d'expérience, dont 2,5 ans chez **SQUAD** dans l'équipe AppSec Factory, j'exerce aujourd'hui en **freelance** tout en restant ouvert aux opportunités en **CDI**.
 
 - 🔭 Actuellement : a la recherche d'un CDI
-- 💼**Développeur Frontend**
+- 💼**Développeur Full Stack**
 - 🎓 Diplômé de **Sophia YNOV Campus** - Expert Développement Fullstack
 - 🌱 Passionné par la **qualité logicielle**, les **bonnes pratiques** et la **sécurité applicative**
 - 📍 Basé dans les **Alpes-maritimes, France**
@@ -40,6 +40,7 @@ Développeur Web spécialisé **Frontend** avec un **Mastère Expert en Dévelop
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
